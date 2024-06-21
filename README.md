@@ -11,7 +11,6 @@ src="https://img.shields.io/github/followers/namazifard?logo=github&style=for-th
 
 
 - 🌱 I’m currently studying Artificial Intelligence
-- 👯 I’m looking to collaborate on Natural Language Processing projects.
 - 🤔 I’m currently reading [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/) and [Python for Data Analysis](https://www.oreilly.com/library/view/python-for-data/9781098104023/). Check them out if interested.
 - 📫 How to reach me: namazifard@ut.ac.ir
 
